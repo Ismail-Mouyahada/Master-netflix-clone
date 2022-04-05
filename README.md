@@ -21,7 +21,7 @@ VUE_APP_TMDB_API_KEY='<YOUR-API-KEY>'
 ## Installation
 Clone project:
 ```shell
-https://github.com/Approxipix/vue-netflix-clone.git
+https://github.com/Ismail-Mouyahada/cesi-netflix.git
 ```
 
 Then change into that folder:
@@ -45,7 +45,5 @@ npm run serve
 ```
 
 Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
-
-## License  <a href="https://github.com/approxipix/vue-netflix-clone/blob/master/LICENSE"><img src="https://img.shields.io/github/license/elangosundar/awesome-README-templates?color=2b9348" alt="License Badge"/></a>
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/approxipix/vue-netflix-clone/blob/master/LICENSE) file for more information.
-# cesi-netflix
+ 
+ 
