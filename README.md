@@ -33,6 +33,12 @@ Install project dependencies:
 ```shell
 npm install
 ```
+(You may have to install vue-cli-service if it's not already done)
+
+```shell
+npm install @vue/cli-service
+```
+
 
 Build for production:
 ```shell
