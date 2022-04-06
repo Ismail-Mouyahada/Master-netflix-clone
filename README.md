@@ -26,7 +26,7 @@ https://github.com/Ismail-Mouyahada/cesi-netflix.git
 
 Then change into that folder:
 ```shell
-cd vue-netflix-clone
+cd cesi-netflix
 ```
 
 Install project dependencies:
