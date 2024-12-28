@@ -1,5 +1,8 @@
 
 ## Configuration
+
+![image](https://github.com/user-attachments/assets/022a713b-2897-4e38-b1ae-7349bb3384b7)
+
 To use this project with Firebase authentication, some configuration steps are required.
   1) Create a free Firebase account at [Firebase](https://firebase.google.com)
   2) Create a project from your [Firebase account console](https://console.firebase.google.com)
